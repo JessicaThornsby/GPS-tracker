@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tracking</string>
+    <string name="tracking_enabled_notif">Tracking is currently enabled. Tap to cancel.</string>
+    <string name="test_email">test@test.com</string>
+    <string name="test_password">testpassword</string>
+    <string name="firebase_path">location</string>
+</resources>
